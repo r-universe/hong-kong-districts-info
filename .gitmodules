@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hkdatasets"]
+	path = hkdatasets
+	url = https://github.com/hong-kong-districts-info/hkdatasets
+	shallow = true
+	registered = true
